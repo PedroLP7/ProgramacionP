@@ -32,13 +32,7 @@ c1.grethathumberg();
 c1.calcularaceleracion();
 
 
-
-
-
-
-
-
-
+        System.out.println("prueba git");
 
 
 
